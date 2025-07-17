@@ -1,4 +1,4 @@
-company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,total_no_of_emplayees
 Atlassian,Sydney,Other,500,0.05,3/6/2023,Post-IPO,Australia,210
 SiriusXM,New York City,Media,475,0.08,3/6/2023,Post-IPO,United States,525
 Alerzo,Ibadan,Retail,400,NULL,3/6/2023,Series B,Nigeria,16
